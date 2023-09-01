@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flash-pizza/static/css/main.a813677f.css",
+    "main.js": "/flash-pizza/static/js/main.76865d80.js",
+    "index.html": "/flash-pizza/index.html",
+    "main.a813677f.css.map": "/flash-pizza/static/css/main.a813677f.css.map",
+    "main.76865d80.js.map": "/flash-pizza/static/js/main.76865d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a813677f.css",
+    "static/js/main.76865d80.js"
+  ]
+}
